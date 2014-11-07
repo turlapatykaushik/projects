@@ -1,4 +1,4 @@
-We made a project "PHYSICAL MAIL NOTIFIER". 
+##"PHYSICAL MAIL NOTIFIER". 
 
 As the name suggests, your mail box supposing it to be a post box, when it receives
 a post letter, it triggers the wireless door bell transmitter, ringing the house's door bell
