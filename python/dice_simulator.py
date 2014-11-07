@@ -4,7 +4,6 @@
 
  * project description : We all know dice game and this project aims at finding
    the outputs of a dice rolled and the constraints are given by the user
-   
 */
 
 import random
