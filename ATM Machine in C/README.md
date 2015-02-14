@@ -1,0 +1,1 @@
+The project is to Implement the ATM Machine in C language. This project is inspired from a youtube video by CRussman. This is a simple project and doing this project will give good understanding on how to use the control statements like if, ifelse, while etc
